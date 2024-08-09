@@ -9,8 +9,8 @@
 | 5| 8/1  | 배누리 | [SEO](https://github.com/livid-fe-study/24-tech-talk/tree/main/w05) |
 | 6| 8/8  | 이하은 | [Module Federation](https://github.com/livid-fe-study/24-tech-talk/tree/main/w06) |
 | 7| 8/22 | 도혜원 |  |
-| 8|  | 정수현 |  |
-| 9|  | 이도경 |  |
-|10|  | 박소영 |  |
-|11|   | 배누리 |  |
-|12|   | 이하은 |  |
+| 8| 8/29 | 정수현 |  |
+| 9| 9/5  | 이도경 |  |
+|10| 9/12 | 박소영 |  |
+|11| 9/19 | 배누리 |  |
+|12| 9/26 | 이하은 |  |
