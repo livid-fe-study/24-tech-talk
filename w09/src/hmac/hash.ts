@@ -3,4 +3,7 @@
  * 반환값은 16진수입니다.
  */
 export async function hash(data: ArrayBuffer) {
+  const arrayBuffer = await crypto.subtle.digest({ name: "sha-1" }, data)
+
+  return [...new Uint8Array(arrayBuffer)].map(b => b.toString(16).padStart(2, '0')).join('')
 }
