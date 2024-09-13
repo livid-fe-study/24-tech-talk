@@ -10,7 +10,6 @@
 | 6| 8/8  | 이하은 | [Module Federation](https://github.com/livid-fe-study/24-tech-talk/tree/main/w06) |
 | 7| 8/22 | 도혜원 | [Tidy First?](https://github.com/livid-fe-study/24-tech-talk/tree/main/w07) |
 | 8| 8/29 | 정수현 | [framer motion](https://github.com/livid-fe-study/24-tech-talk/tree/main/w08) |
-| 9| 9/5  | 이도경 | [TOTP](https://github.com/livid-fe-study/24-tech-talk/tree/main/w09) |
-|10| 9/12 | 박소영 |  |
-|11| 9/19 | 배누리 |  |
-|12| 9/26 | 이하은 |  |
+| 9| 9/12  | 이도경 | [TOTP](https://github.com/livid-fe-study/24-tech-talk/tree/main/w09) |
+|10| 9/19 | 박소영 |  |
+|11| 9/26 | 배누리 |  |
