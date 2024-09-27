@@ -12,4 +12,4 @@
 | 8| 8/29 | 정수현 | [framer motion](https://github.com/livid-fe-study/24-tech-talk/tree/main/w08) |
 | 9| 9/12  | 이도경 | [TOTP](https://github.com/livid-fe-study/24-tech-talk/tree/main/w09) |
 |10| 9/19 | 박소영 | [낯선 CSS](https://github.com/livid-fe-study/24-tech-talk/tree/main/w10) |
-|11| 9/26 | 배누리 |  |
+|11| 9/26 | 배누리 | [로컬 LLM 활용해보기](https://github.com/livid-fe-study/24-tech-talk/tree/main/w11) |
